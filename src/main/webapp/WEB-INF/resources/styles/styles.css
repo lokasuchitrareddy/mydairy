@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* Reset some default styling */
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Header styles */
+header {
+    background-color:darkgray;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Left Sidebar styles */
+.sidebar-left {
+   /* background-color: #f0f0f0;*/
+    width: 500px;
+    float: left;
+    padding: 10px;
+}
+
+/* Right Sidebar styles */
+.sidebar-right {
+    background-color: #f0f0f0;
+    width: 200px;
+    float: right;
+    padding: 10px;
+}
+
+/* Main Content styles */
+.main-content {
+    padding: 10px;
+    margin-left: 220px; /* Account for the left sidebar width */
+    margin-right: 220px; /* Account for the right sidebar width */
+}
+/*
+.container {
+  max-width: 400px;
+  margin: 100px auto;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+*/
+
+h1 {
+  color:red;
+}
+
+p {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.login-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+
+
+/* Center the login form */
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  
+}
+
+/* Form input styles */
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Submit button styles */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Register link styles */
+p {
+    text-align: center;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+
+.container
+{
+	border-style: solid;
+	border-color:red;
+	border-width: 10px;
+}

@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body
+{
+	background-color: rgb(220, 253, 227);
+}
+
+h1
+{
+	color:black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bolder;
+}
+h2
+{
+	color:black;
+	font-family: 'Times New Roman', Times, serif;
+}
+h3
+{
+	color:black;
+	font-family: fantasy
+}
+h4
+{
+	color:black;
+	font-family: serif;
+}
+form
+{
+	padding-left:35%;
+}
