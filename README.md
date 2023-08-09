@@ -1,4 +1,4 @@
-# mydairy
+# mydairy(Self-Directed Project)
 
 https://github.com/lokasuchitrareddy/mydairy/assets/140941286/3a63545d-5abf-46d7-a483-a555ccf9b9fa
 
